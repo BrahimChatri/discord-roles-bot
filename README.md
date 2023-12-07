@@ -4,16 +4,16 @@
 <ol>
   <li>
     <p><strong>Step 1:</strong> Clone the repository.</p>
-    <code>git clone https://github.com/your-username/your-repo.git</code>
+    <code>git clone https://github.com/BrahimChatri/discord-roles-bot </code>
   </li>
   
   <li>
     <p><strong>Step 2:</strong> Install dependencies.</p>
-    <code>npm install</code>
+    <code>pip install -r requirements.txt</code>
   </li>
   
   <li>
     <p><strong>Step 3:</strong> Run the application.</p>
-    <code>npm start</code>
+    <code>python roles.py</code>
   </li>
 </ol>
