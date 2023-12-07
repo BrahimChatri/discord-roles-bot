@@ -1,5 +1,5 @@
 # discord-roles-bot
- <h1>Hi<\h1> 
+ <h1>Hi</h1> 
 to use this bot follow this steps:
 1. Clone the repository.
 2. rname file (.ven.dev) to .ven
